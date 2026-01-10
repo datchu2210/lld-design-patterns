@@ -12,7 +12,8 @@ This repository contains Low Level Design (LLD) explanation and examples impleme
             - **Double-Checked Locking**
             - **Bill Pugh Singleton**
 
-
+    2. Factory Method
+    3. Builder Pattern
 ## Language Used
 - Python
 
