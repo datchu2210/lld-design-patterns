@@ -12,8 +12,9 @@ This repository contains Low Level Design (LLD) explanation and examples impleme
             - **Double-Checked Locking**
             - **Bill Pugh Singleton**
 
-    2. Factory Method
+    2. Factory Pattern
     3. Builder Pattern
+    4. Abstract Factory Pattern
 
 
 ## Language Used
